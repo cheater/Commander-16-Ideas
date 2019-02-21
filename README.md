@@ -3,8 +3,7 @@
 # PLEASE READ THIS README TO THE END BEFORE ADDING NEW ISSUES OR FEATURE REQUESTS OR COMMENTING
 
 This is a place to submit ideas for the Commander 16 Computer by David Murray
-aka 8-bit guy. Submit new ideas as [Issues in the tracker][issues] and comment
-on existing issues. *BE CIVIL, CONSTRUCTIVE, AND UNDERSTANDING. No griefing,
+aka 8-bit guy. *BE CIVIL, CONSTRUCTIVE, AND UNDERSTANDING. No griefing,
 aggression, harassment, or astro-turfing*. There will be zero tolerance. This
 issue tracker is open to everyone. There is also a [wiki] here which we will
 can use.
@@ -20,7 +19,9 @@ developers and substantial contributors to this project.
 browse the issues in this repository. But bear in mind: *this is not a chat
 forum!* Only post comments if they add something substantial to the topic of
 conversation, if you would like to share knowledge about the topic at hand that
-will help in creating the Commander 16.
+will help in creating the Commander 16. You can support existing feature
+requests by using emoji reactions in the upper right corner of every post. Just
+don't use the thumbs down one, let's not be negative here!
 
 *If you would like to work on this project* and can do anything that this
 project requires, meaning:
@@ -48,15 +49,15 @@ help, you own!
 
 If you are a user who would like to voice their support for *using or emulating
 some specific vintage chip*, or would like to *request a specific
-functionality*, please find an existing issue and upvote that. Don't comment if
-you just want to show support, upvote only! You upvote by clicking on the
-"smiley face" with a plus in the upper right corner of the issue, and selecting
-the thumbs up emoji. Don't use the thumbs down emoji, no one needs to be
-negative here, if you think something is amiss then please report it to the
+functionality*, please find an existing [issue][issues] and upvote that. Don't
+comment if you just want to show support, upvote only! You upvote by clicking
+on the "smiley face" with a plus in the upper right corner of the issue, and
+selecting the thumbs up emoji. Don't use the thumbs down emoji, no one needs to
+be negative here, if you think something is amiss then please report it to the
 mods. If you can't see the issue for the specific thing, please search the
-issues first, and if you haven't found one, *only then add a new one*. Make
-sure to add the label "enhancement", and if you'd like to suggest a chip,
-please use the label "chip suggestion" as well.
+issues first, and if you haven't found one that exists already, *only then add
+a new one*. Make sure to add the label "enhancement", and if you'd like to
+suggest a chip, please use the label "chip suggestion" as well.
 
 Thanks!
 
