@@ -5,8 +5,8 @@
 This is a place to submit ideas for the Commander 16 Computer by David Murray
 aka 8-bit guy. **BE CIVIL, CONSTRUCTIVE, AND UNDERSTANDING. No griefing,
 aggression, harassment, or astro-turfing**. There will be zero tolerance. This
-issue tracker is open to everyone. There is also a [wiki] here which we will
-can use.
+issue tracker is open to everyone. There is also a [wiki] here which we can
+use.
 
 David Murray doesn't know anything about this bug tracker (surprise, David!). I
 have created it so that conversation that currently happens in the Facebook
