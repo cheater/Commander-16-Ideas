@@ -8,12 +8,14 @@ aggression, harassment, or astro-turfing**. There will be zero tolerance. This
 issue tracker is open to everyone. There is also a [wiki] here which we will
 can use.
 
-David Murray doesn't know anything about this bug tracker. I have created it so
-that conversation that currently happens in the Facebook group can be done in a
-more orderly fashion. If David wants I'll shut this down, but I thought this
-would be of great use to other people and would make it simpler for everyone to
-see what ideas people are voicing and who can provide technical support as
-developers and substantial contributors to this project.
+David Murray doesn't know anything about this bug tracker (surprise, David!). I
+have created it so that conversation that currently happens in the Facebook
+group can be done in a more orderly fashion. If David wants I'll shut this
+down, but I thought this would be of great use to other people and would make
+it simpler for everyone to see what ideas people are voicing and who can
+provide technical support as developers and substantial contributors to this
+project. Once we have a nice "database" of issues the team can look through the
+issues and gather an understanding of what the people think.
 
 **If you are a user who would just like to see what's going on**, feel free to
 browse the issues in this repository. But bear in mind: **this is not a chat
