@@ -27,7 +27,7 @@ don't use the thumbs down one, let's not be negative here!
 
 **If you would like to work on this project** and can do anything that this
 project requires, meaning:
-- development of Verilog for FPGAs
+- development of Verilog or VHDL for FPGAs
 - layout of digital boards
 - able to write firmware for the digital parts of the board
 - software engineer who knows the 6502 and could implement BASIC
